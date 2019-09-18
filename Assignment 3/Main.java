@@ -51,5 +51,7 @@ public class Main
         int search = keyboard.nextInt();
         System.out.println("Index of: " + database.indexOf(search));
 
+        keyboard.close();
+
     }
 }
