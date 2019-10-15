@@ -1,0 +1,7 @@
+135,John Peterman
+160,Joe Divola
+101,David Putty
+68,Jerry Seinfeld
+225,George Costanza
+100,Elaine Benes
+200,Cosmo Kramer
