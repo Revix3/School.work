@@ -1,0 +1,10 @@
+10,Gregorio Montas,5.6,175,5.1
+02,Steven Hoobs,6.0,180,4.7
+12,Albert Noble,5.9,178,5.2
+25,Edwin Newman,5.7,165,6.0
+03,Peter Armstrong,5.8,179,4.7
+35,Adam Covick,5.1,159,6.3
+09,Kenneth Stevens,6.1,185,4.9
+05,Chris Adams,5.8,175,4.7
+30,Mathew Hughs,5.6,160,6.2
+01,Guy Mans,5.8,175,4.5
